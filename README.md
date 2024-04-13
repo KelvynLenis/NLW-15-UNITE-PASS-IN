@@ -12,7 +12,7 @@ Event management platform
   
 </a>
 
-<a>
+<a href="https://github.com/KelvynLenis/NLW-UNITE-PASS-IN/tree/master/REACT">
 
   <img src="https://github.com/KelvynLenis/NLW-UNITE-PASS-IN/assets/52057929/a3ec4733-2354-4b99-8927-58ca2d61e97d"  width="100" />
   
