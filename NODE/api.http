@@ -1,0 +1,32 @@
+
+POST http://localhost:3333/events
+Content-Type: application/json
+
+{
+  "title": "Webinar",
+  "details": null,
+  "maximumAttendees": 1
+}
+
+###
+
+POST http://localhost:3333/events/68234115-1da5-49ef-a131-dcbe2319af8b/attendees
+Content-Type: application/json
+
+{
+  "name": "lenis",
+  "email": "lenis.dev@gmail.com"
+}
+
+
+###
+GET http://localhost:3333/events/68234115-1da5-49ef-a131-dcbe2319af8b
+
+###
+GET http://localhost:3333/attendees/4/badge
+
+###
+GET http://localhost:3333/attendees/4/check-in
+
+###
+GET http://localhost:3333/events/b063cc87-889a-4d3e-9218-04a22144b57e/attendees?query=kelvyn
