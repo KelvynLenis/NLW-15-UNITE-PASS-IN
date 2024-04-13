@@ -5,7 +5,8 @@ Event management platform
 <img src="https://github.com/KelvynLenis/NLW-UNITE-PASS-IN/assets/52057929/5b9e8dbc-fcf2-4f7c-8dfd-03b2d30ff877" width="1000" />
 
 # Tech
-<a>
+
+<a href="https://github.com/KelvynLenis/NLW-UNITE-PASS-IN/tree/master/NODE">
 
   <img src="https://github.com/KelvynLenis/NLW-UNITE-PASS-IN/assets/52057929/2ba90474-344c-4b9a-8146-23e3473d0e23"  width="110" />
 
