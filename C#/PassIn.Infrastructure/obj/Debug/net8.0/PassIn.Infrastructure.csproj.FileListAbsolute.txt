@@ -1,0 +1,12 @@
+C:\Users\kmart\Desktop\Development_kit\Rocketseat\NLW\NLW-UNITE\C#\PassIn.Infrastructure\bin\Debug\net8.0\PassIn.Infrastructure.deps.json
+C:\Users\kmart\Desktop\Development_kit\Rocketseat\NLW\NLW-UNITE\C#\PassIn.Infrastructure\bin\Debug\net8.0\PassIn.Infrastructure.dll
+C:\Users\kmart\Desktop\Development_kit\Rocketseat\NLW\NLW-UNITE\C#\PassIn.Infrastructure\bin\Debug\net8.0\PassIn.Infrastructure.pdb
+C:\Users\kmart\Desktop\Development_kit\Rocketseat\NLW\NLW-UNITE\C#\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmart\Desktop\Development_kit\Rocketseat\NLW\NLW-UNITE\C#\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kmart\Desktop\Development_kit\Rocketseat\NLW\NLW-UNITE\C#\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.AssemblyInfo.cs
+C:\Users\kmart\Desktop\Development_kit\Rocketseat\NLW\NLW-UNITE\C#\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kmart\Desktop\Development_kit\Rocketseat\NLW\NLW-UNITE\C#\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.sourcelink.json
+C:\Users\kmart\Desktop\Development_kit\Rocketseat\NLW\NLW-UNITE\C#\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.dll
+C:\Users\kmart\Desktop\Development_kit\Rocketseat\NLW\NLW-UNITE\C#\PassIn.Infrastructure\obj\Debug\net8.0\refint\PassIn.Infrastructure.dll
+C:\Users\kmart\Desktop\Development_kit\Rocketseat\NLW\NLW-UNITE\C#\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.pdb
+C:\Users\kmart\Desktop\Development_kit\Rocketseat\NLW\NLW-UNITE\C#\PassIn.Infrastructure\obj\Debug\net8.0\ref\PassIn.Infrastructure.dll
